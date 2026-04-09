@@ -27,4 +27,5 @@
 - 💎 **[Hashed gems](https://github.com/maerzhase/hashed-gems)** — generative gem stone avatars
 - 🫰 **[Market UI](https://github.com/maerzhase/market-ui)** — Design System for Maketplace Applications
 - 🦮 **[ai11y](https://github.com/ai11y/ai11y)** — UI context layer for AI agents
+- 🖋️ **[Monorepo Template](https://github.com/maerzhase/monorepo-template)** — Opinionated monorepo template using pnpm, turbo, biome, syncpack
 - 📖 **[react-scrollama](https://github.com/squirrelsquirrel78/react-scrollama)** — Simple scrollytelling in react
