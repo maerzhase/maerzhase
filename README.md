@@ -24,7 +24,7 @@
 
 ## Open source
 
-- 🐣 **[JobNest](https://github.com/maerzhase/jobnest)** — A privacy first job application tracker native app
+- 🐣 **[JobNest](https://github.com/maerzhase/jobnest)** — A privacy first job application tracker
 - 💎 **[Hashed gems](https://github.com/maerzhase/hashed-gems)** — generative gem stone avatars
 - 🫰 **[Market UI](https://github.com/maerzhase/market-ui)** — Design System for Maketplace Applications
 - 🦮 **[ai11y](https://github.com/ai11y/ai11y)** — UI context layer for AI agents
