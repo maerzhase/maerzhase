@@ -18,9 +18,9 @@
 ![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=flat-square&logo=Accessibility&logoColor=white)
 
 > Senior Design Engineer & Full-Stack Developer.  
-> Since 2011 I’ve been working with data and information technology—both inside
-> and outside the web. I thrive in modern design and coding environments, and
-> when existing tools don’t quite fit, I build my own.
+> I lead design engineering across product UX, systems, and implementation.
+> Since 2011 I've been building interfaces, platforms, and tooling for products
+> where technical complexity needs to become usable, coherent, and fast.
 
 ## Open source
 
