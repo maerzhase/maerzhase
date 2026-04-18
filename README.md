@@ -18,9 +18,9 @@
 ![Accessibility](https://img.shields.io/badge/Accessibility-%230170EA.svg?style=flat-square&logo=Accessibility&logoColor=white)
 
 > Senior Design Engineer & Full-Stack Developer.  
-> I lead design engineering across product UX, systems, and implementation.
-> Since 2011 I've been building interfaces, platforms, and tooling for products
-> where technical complexity needs to become usable, coherent, and fast.
+> Leading design engineering across product UX, architecture, and implementation.
+> building platforms, interfaces, and products that turn technical complexity
+> into usable, coherent, and performant systems.
 
 ## Open source
 
