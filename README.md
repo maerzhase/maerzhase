@@ -2,12 +2,11 @@
 
 # Hej, I'm Markus 👋
 
-📍 Berlin, DE ↔ Porto, PT
+📍 Berlin, DE ↔ Porto, PT   
 
-> Senior Design Engineer & Full-Stack Developer.  
-> Leading design engineering across product UX, architecture, and implementation.
-> building platforms, interfaces, and products that turn technical complexity
-> into usable, coherent, and performant systems.
+Senior Design Engineer & Full-Stack Developer.  
+Leading design engineering across product UX, architecture, and implementation.  
+Building platforms, interfaces, and products that turn technical complexity    into usable, coherent, and performant systems.
 
 ## Open source
 
