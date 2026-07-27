@@ -11,6 +11,7 @@ Building platforms, interfaces, and products that turn technical complexity    i
 ## Open source
 
 - 🐣 **[JobNest](https://github.com/maerzhase/jobnest)** — A privacy first job application tracker
+- #️⃣ **[Whitehash](https://github.com/maerzhase/whitehash)** — A framework-agnostic toolkit for reading and embedding fxhash generative art
 - 💎 **[Hashed gems](https://github.com/maerzhase/hashed-gems)** — generative gem stone avatars
 - 🫰 **[Market UI](https://github.com/maerzhase/market-ui)** — Design System for Maketplace Applications
 - 🦮 **[ai11y](https://github.com/ai11y/ai11y)** — UI context layer for AI agents
